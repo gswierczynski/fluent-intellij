@@ -3,6 +3,10 @@
 # Fluent Intellij Changelog
 
 ## [Unreleased]
+### Changed
+- Add support for IntelliJ IDEA 2026.1 (`261.*`).
+- Update the Gradle, Kotlin, and IntelliJ Platform build tooling for IntelliJ 2026 compatibility.
+- Remove unused IntelliJ Marketplace plugin dependencies from the build configuration.
 
 ## [0.4.1]
 ### Fixed
